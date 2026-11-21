@@ -6,6 +6,10 @@
 List all devices added to your Packet Tracer workspace.
 
 _Write your list here…_
+routers
+switches
+pcs
+server
 
 ### 2.2 Topology Screenshot
 Insert your topology screenshot (saved inside `images/`).
